@@ -1,0 +1,44 @@
+button{
+    background-color: rgb(231, 89, 33);
+    border: 1cm;
+    position: unset ;
+    transform: translate(100%, 0%);
+    top: 50%;;
+    left: -15%;
+    padding: 20px 20px;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    height:300px;
+    width: 200px;
+    word-wrap: break-word;
+    color: red;
+    border-radius: 20px;
+    position: relative;
+}
+#table1{
+    width: 80%;
+    font-size: 25px;
+    background-color: rgb(95, 199, 202);
+    border-radius: 10px;
+    margin-left: 2%;
+    
+}
+
+table{
+width: 30%;
+margin: 10px;
+float: left;
+font-size: 15px;
+background-color:rgb(255, 192, 110);
+border-radius: 10px;
+margin: 50;
+float: right;
+}
+
+h1{
+    position: relative;
+    font-size: 40px;
+    text-align: center;
+}
